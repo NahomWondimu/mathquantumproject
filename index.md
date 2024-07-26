@@ -18,3 +18,7 @@ Complex can also be represented in polar form as seen below
 
 To understand how the polar form is derived, check out this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Complex numbers are important in quantum mechanics and computing. (explanation of concept)[^1].
+
+[^1] [Scientific American](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
