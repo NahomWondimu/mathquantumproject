@@ -6,19 +6,40 @@ layout: single
 author_profile: false
 ---
 
-Complex numbers are numbers with a *real component* and an imaginary component, in the form \\(a+bi\\), where \\(a\\) and \\(b\\) are **real numbers** and \\(i\\) is the ***imaginary unit***.
+# Quantum Simulations for Environmental Sustainability
 
-An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
+## Project Idea
+Using quantum simulations to model environmental changes and improve sustainability practices.
 
-It can be helpful to visualize complex numbers on the complex plane:
-![Complex Plane](https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png)
+## Background
+Quantum simulations use the principles of quantum mechanics to simulate complex systems more efficiently than classical computers. In environmental science, modeling phenomena such as climate change, deforestation, and pollution can be computationally intensive. Quantum simulations have the potential to provide more accurate and faster predictions, helping us understand and address these issues.
 
-Complex can also be represented in polar form as seen below
-![Folar Form](https://www.songho.ca/math/euler/files/euler17.png)
+## Motivation
+The motivation behind this project is to explore how quantum computing can contribute to environmental sustainability. By modeling environmental changes more precisely, we can develop better strategies for conservation, pollution management, and sustainable development. This project aims to connect quantum computing with real-world applications in environmental science.
 
-To understand how the polar form is derived, check out this video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Reference Video
+[How Quantum Computing Can Help Fight Climate Change](https://www.youtube.com/watch?v=Het614KeEow&t=49s)
 
-Complex numbers are important in quantum mechanics and computing. (explanation of concept)[^1].
+### Video Summary
+- **The End of a Technological Age:** Current technologies have almost reached their full potential, and global challenges like climate change require new solutions.
+- **The Need for Quantum Computing:** Quantum computing is necessary for processing large amounts of data, with industry leaders investing heavily in this technology.
+- **How Quantum Computing Works:** Quantum computers use qubits that can exist in multiple states simultaneously, leveraging quantum superposition for exponential processing power.
+- **Advantages of Quantum Computing:** Quantum computing can handle complex models quickly, analyze molecules and reactions accurately, and lead to breakthroughs in various fields.
+- **Applications of Quantum Computing:** Quantum computing can contribute to low-emission technologies, optimize power grids, and predict environmental impacts.
+- **Industry Investment and Potential:** Companies like BASF, Microsoft, and IBM are investing in quantum computing, expecting significant cost savings and revenue opportunities.
+- **Challenges and Roadblocks:** Quantum computing faces challenges like energy consumption and sustainable energy supply, and the pace of change needs to accelerate to meet climate goals.
 
-[^1]: [Scientific American](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
+## References
+1. Ho, K. T. M., Chen, K.-C., Lee, L., Burt, F., Yu, S., & Lee, P.-H. (2023). Quantum Computing for Climate Resilience and Sustainability Challenges. *Journal Name*, *Volume*(Issue), pages. DOI.
+2. Author(s). (2023). Quantum-Centric Supercomputing: Ambitious Plan to Solve the World's Biggest Problems. *Journal Name*, *Volume*(Issue), pages. DOI.
+
+### Summary of Key References
+- **Quantum Computing for Climate Resilience and Sustainability Challenges:** This paper discusses how quantum computing and quantum machine learning can enhance climate change prediction and sustainable development. It highlights the shortcomings of traditional computational methods and the advantages of quantum advancements in optimizing multi-infrastructure systems toward climate neutrality.
+- **Quantum-Centric Supercomputing: Ambitious Plan to Solve the World's Biggest Problems:** This research survey provides an overview of quantum computing fundamentals and the potential applications of quantum-centric supercomputers in solving global challenges, including climate modeling. It emphasizes the transformative potential of quantum computing and the need for continued research and development.
+
+## Tools/Techniques
+- **Mathematics areas/tools/techniques:** Linear algebra, differential equations, numerical analysis, quantum gates and circuits, simulation algorithms.
+- **Software tools:** Qiskit, Quantum Development Kit (QDK), Python for data analysis and modeling.
+
+## Goals
+This project aims to show how quantum simulations can help us understand and tackle environmental issues. By working on this project, I hope to gain deeper insights into both quantum computing and environmental science. This experience will be valuable for my future studies and potential career in quantum information science and environmental technology.
