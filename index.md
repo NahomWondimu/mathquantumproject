@@ -6,8 +6,6 @@ layout: single
 author_profile: false
 ---
 
-# Quantum Simulations for Environmental Sustainability
-
 ## Project Idea
 Using quantum simulations to model environmental changes and improve sustainability practices.
 
