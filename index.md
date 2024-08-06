@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 ## Project Idea
-Using quantum simulations to model environmental changes and improve sustainability practices.
+Using quantum simulations to model environmental changes to find sustainable practices that could make it better.
 
 ## Background
 Quantum simulations use the principles of quantum mechanics to simulate complex systems more efficiently than classical computers. In environmental science, modeling phenomena such as climate change, deforestation, and pollution can be computationally intensive. Quantum simulations have the potential to provide more accurate and faster predictions, helping us understand and address these issues.
@@ -20,4 +20,4 @@ The motivation behind this project is to explore how quantum computing can contr
 
 ### References
 1. Ho, K. T. M., Chen, K. C., Lee, L., Burt, F., & Yu, S. (2024). Quantum Computing for Climate Resilience and Sustainability Challenges. [DOI](https://arxiv.org/abs/2407.16296).
- - This paper discusses how quantum computing and quantum machine learning can enhance climate change prediction and sustainable development. It highlights the shortcomings of traditional computational methods and the advantages of quantum advancements in optimizing multi-infrastructure systems toward climate neutrality.
+ - This paper discusses how quantum computing and quantum machine learning can improve climate change predictions. It highlights the problems of traditional classical computer methods and the advantages of quantum advancements in improving ecosystems around the world.
