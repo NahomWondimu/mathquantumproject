@@ -8,6 +8,7 @@ author_profile: true
 
 ## Project Idea
 **Original Prompt:** Discuss and Research a topic that can be dramatically impacted by the development and improvement of quantum computing.
+
 **My Response:** Using quantum simulations to model environmental changes to find sustainable practices that could make it better.
 
 ## Background
